@@ -1,5 +1,4 @@
-# PBL2
-AI-Driven Framework for Air Quality Prediction and Precautionary Health Recommendations
+# AI-Driven Framework for Air Quality Prediction and Precautionary Health Recommendations
 
 Random Forest Regression model to calculate a Health Impact Score based on predicted pollution levels and meteorological data.
 
